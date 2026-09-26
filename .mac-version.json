@@ -1,0 +1,98 @@
+{
+  "main": "outliers-gather-04-facebook",
+  "main_commit": "78c9cdefd04010d493746583d35c681be6f10e75",
+  "mac": "outliers-gather-04-facebook-mac",
+  "macgen_commit": "d826836+uncommitted",
+  "date": "2026-09-26",
+  "fingerprint": "5129ab9f666fc5d25bd3e9833e933a03cfb674ca0fcedc679123f5c142a1ecaf",
+  "left_out_of_fingerprint": [
+    ".mac-version.json"
+  ],
+  "files": [
+    {
+      "path": ".gitattributes",
+      "category": "same",
+      "sha256": "e664118722da6bf945bd9d4cf36a4e6a534e5abaeefc47f170b4ff1adda3134d"
+    },
+    {
+      "path": ".gitignore",
+      "category": "same",
+      "sha256": "19ad5a40ca5026633b3861d5d5690bb8cb5932bc256674ff5008384ad9ad6135"
+    },
+    {
+      "path": "README.md",
+      "category": "changed",
+      "sha256": "2b627e934acf85965f882ca2b7ad9cce1bd834c3cab998feabaadc7aee069535"
+    },
+    {
+      "path": "WHAT-I-STOLE.md",
+      "category": "same",
+      "sha256": "2cb5d6a815cff865e1b7299d64163136fecab9180ec9eb539c28033656e2d47d"
+    },
+    {
+      "path": "engine/crm_paths.py",
+      "category": "same",
+      "sha256": "ab10c6f724efc213d756862c20e42f31a0f96d17e6f54122cea95c075d1b54ab"
+    },
+    {
+      "path": "engine/facebook.py",
+      "category": "same",
+      "sha256": "62698a66b5fe9b7971ad30149aa858ea424255c8f4446bcbd6b14d44786ceff9"
+    },
+    {
+      "path": "engine/facebook_browser.py",
+      "category": "same",
+      "sha256": "b222b13073fb7ac5c600d4d79906b837fd516dccb1509585d27a4ed42c2aa05f"
+    },
+    {
+      "path": "engine/facebook_find_groups.py",
+      "category": "same",
+      "sha256": "f9b0aa4c8de8b50f4eaa6b2907d2248217174c20ea8fa6432e7d3413700e74b7"
+    },
+    {
+      "path": "engine/facebook_join_groups.py",
+      "category": "same",
+      "sha256": "201c1e89bb4906d96862435043b1db4b6501f76e1dbe55345c2cec25750abdbe"
+    },
+    {
+      "path": "engine/facebook_limits.py",
+      "category": "same",
+      "sha256": "18e1fd3f1451ecd97f8ef0a6fb0b0351e18a007f891db40b5d9143680444bf72"
+    },
+    {
+      "path": "engine/facebook_ops.py",
+      "category": "same",
+      "sha256": "6dd23fcd780df1f2e3c9ac890d018a38b4cef06144d5a61959a3c3393059fb6f"
+    },
+    {
+      "path": "engine/facebook_probe.py",
+      "category": "same",
+      "sha256": "7e02caf2407df0546e391b46e6f7e35cea6b409e0d713b7ee31252441cb4e570"
+    },
+    {
+      "path": "engine/facebook_settings.py",
+      "category": "same",
+      "sha256": "7054930a0f18f3dcb6d54da9779c5dfc56abe3286d0d028e477e472776729c34"
+    },
+    {
+      "path": "engine/facebook_walk.py",
+      "category": "same",
+      "sha256": "c9b4f84eb3f3cd46af7ad135c9a57ea7b8946ab331819564d21b050b5c4b8112"
+    },
+    {
+      "path": "engine/safe_write.py",
+      "category": "same",
+      "sha256": "34708344aa0a1d531c356306b33f76b33670413fd96f045dfcc21271deebc026"
+    },
+    {
+      "path": "install.py",
+      "category": "same",
+      "sha256": "c882fea878b2b9138acad6e4588cdd0c2c47bf4e4f01cb4076f52e9d615708b1"
+    },
+    {
+      "path": "tests/test_governor.py",
+      "category": "same",
+      "sha256": "87c68ae554b87eea0b7477df1c01e91fb4a8eced016848826b35e27b8ac583ea"
+    }
+  ]
+}
