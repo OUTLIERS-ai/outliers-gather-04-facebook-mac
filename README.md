@@ -35,7 +35,7 @@ folder called `outliers-gather-python` in your home folder: a folder with its ow
 add-ons, the same one Layer 1 makes. It works whether your Terminal uses Python from python.org or
 from Homebrew (an add-on installer many Mac owners use, whose Python refuses a plain
 `python3 -m pip install`). Type these 4 lines, one at a time, in the same Terminal window. If you
-made the folder in Layer 1, typing them again does no harm:
+made the folder in Layer 1, skip them and type only the `source` line:
 
 ```bash
 python3 -m venv ~/outliers-gather-python

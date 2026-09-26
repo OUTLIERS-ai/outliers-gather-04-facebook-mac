@@ -2,9 +2,9 @@
   "main": "outliers-gather-04-facebook",
   "main_commit": "78c9cdefd04010d493746583d35c681be6f10e75",
   "mac": "outliers-gather-04-facebook-mac",
-  "macgen_commit": "c8aed06",
+  "macgen_commit": "bd383b2",
   "date": "2026-09-26",
-  "fingerprint": "5129ab9f666fc5d25bd3e9833e933a03cfb674ca0fcedc679123f5c142a1ecaf",
+  "fingerprint": "cdba923cb9a1511121d1a0905efade465be2eda08385493d02248a71d134977c",
   "left_out_of_fingerprint": [
     ".mac-version.json"
   ],
@@ -22,7 +22,7 @@
     {
       "path": "README.md",
       "category": "changed",
-      "sha256": "2b627e934acf85965f882ca2b7ad9cce1bd834c3cab998feabaadc7aee069535"
+      "sha256": "e5d20b09c4f79c28c183eef71a67b18cfe52108eb3fd278d3d94378b6a8b0f49"
     },
     {
       "path": "WHAT-I-STOLE.md",
